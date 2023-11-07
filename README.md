@@ -6,7 +6,7 @@
 
 My name is Vlad
 
-To run code navigate into folder in terminal and run "node <file>" command
+To run code navigate into folder in terminal and run "node 'file'" command
 
 **Bold text**
 _Italic_
@@ -22,10 +22,6 @@ AAA
 BBB
 CCC
 ```
-
-Red: #FF0000
-Green: rgb(0,255,0)
-Blue: #0000FF
 
 List:
 * AAA
