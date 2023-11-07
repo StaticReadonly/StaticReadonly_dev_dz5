@@ -4,6 +4,10 @@
 
 ### Aboba
 
+My name is Vlad
+
+To run code navigate into folder in terminal and run "node <file>" command
+
 **Bold text**
 _Italic_
 ~~Strike~~
